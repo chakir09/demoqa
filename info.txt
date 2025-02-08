@@ -1,0 +1,19 @@
+# Page d'accueil
+class LoginPageLocators:
+    | btn | Bouton |
+    | txt | Champ de texte |
+    | lbl | Libellé(Label) |
+    | lnk | Lien(Link) |
+    | chk | Case à cocher(Checkbox) |
+    | rd | Bouton radio(Radio Button) |
+    | ddl | Liste déroulante(Dropdown List) |
+    | tbl | Tableau(Table) |
+    | col | Colonne(Column) |
+    | row | Ligne(Row) |
+    | img | Image |
+    | icon | Icône |
+    | msg | Message(erreur, succès, etc.) |
+    | frm | Formulaire |
+    | dlg | Dialogue(pop - up / modal) |
+    | sec | Section |
+    | tab | Onglet(Tab) |*/
